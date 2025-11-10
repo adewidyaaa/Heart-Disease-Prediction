@@ -1,0 +1,11 @@
+streamlit==1.44.0
+pandas
+seaborn
+matplotlib
+plotly
+pillow
+numpy==2.1.3
+scikit-learn==1.7.2
+imbalanced-learn
+feature-engine
+
