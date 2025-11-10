@@ -4,13 +4,12 @@
 
 ```
 1. description.md - Penjelasan gambaran umum project
-2. P1M2_ade_widya.ipynb - Notebook yang berisi pengolahan data dengan python yang berisikan preprocessing, EDA dan model
-3. P1M2_ade_widya_inf.ipynb - Notebook untuk inferensi/prediksi menggunakan model yang sudah dilatih
-4. P1M2_ade_widya_conceptual.txt - Jawaban terkait pertanyaan conceptual problems
-5. best_model.pkl - File model Random Forest terbaik hasil training
-6. url.txt - File berisi berbagai link url yang digunakan
-7. Heart-Disease-dataset.csv - Dataset BRFSS yang digunakan untuk training dan EDA
-8. deployment - Folder berisi script atau file terkait deployment aplikasi prediksi
+2. heart-disease-predictiom.ipynb - Notebook yang berisi pengolahan data dengan python yang berisikan preprocessing, EDA dan model
+3. model_inference.ipynb - Notebook untuk inferensi/prediksi menggunakan model yang sudah dilatih
+4. best_model.pkl - File model Random Forest terbaik hasil training
+5. url.txt - File berisi berbagai link url yang digunakan
+6. Heart-Disease-dataset.csv - Dataset BRFSS yang digunakan untuk training dan EDA
+7. deployment - Folder berisi script atau file terkait deployment aplikasi prediksi
 ```
 
 ## Problem Background
@@ -47,3 +46,4 @@ Project ini menghasilkan :
 Deployment : Hugging Face Space (https://huggingface.co/spaces/adewidya/heart-disease-prediction)
 
 ---
+
