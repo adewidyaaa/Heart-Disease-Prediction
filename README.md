@@ -3,7 +3,7 @@
 ## Repository Outline
 
 ```
-1. description.md - Penjelasan gambaran umum project
+1. README.md - Penjelasan gambaran umum project
 2. heart-disease-predictiom.ipynb - Notebook yang berisi pengolahan data dengan python yang berisikan preprocessing, EDA dan model
 3. model_inference.ipynb - Notebook untuk inferensi/prediksi menggunakan model yang sudah dilatih
 4. best_model.pkl - File model Random Forest terbaik hasil training
@@ -46,4 +46,5 @@ Project ini menghasilkan :
 Deployment : Hugging Face Space (https://huggingface.co/spaces/adewidya/heart-disease-prediction)
 
 ---
+
 
